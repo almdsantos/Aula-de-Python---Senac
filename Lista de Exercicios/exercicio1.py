@@ -9,4 +9,4 @@ perimetro = base + base + altura + altura
 print("A área do triangulo é: ", area)
 print("O perimetro do triangulo é: ", perimetro)
 
-input()
+input("\n\nClique ENTER para finalizar.")

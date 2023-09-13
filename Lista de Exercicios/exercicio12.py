@@ -7,5 +7,4 @@ kmh = vms * 3.6
 
 print("A velocidade em Km/h é: ", kmh)
 
-input()
-
+input("\n\nClique ENTER para finalizar.")

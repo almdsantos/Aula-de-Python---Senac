@@ -8,4 +8,4 @@ resto = numero1 % numero2
 
 print("O resultado de", numero1, "dividido por", numero2, "é igual a:", resultado, "e o resto é", resto)
 
-input()
+input("\n\nClique ENTER para finalizar.")

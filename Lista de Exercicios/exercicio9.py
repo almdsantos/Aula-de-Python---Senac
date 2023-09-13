@@ -10,4 +10,4 @@ volume = raio*math.pi*(raio**2)*2
 
 print(volume)
 
-input()
+input("\n\nClique ENTER para finalizar.")

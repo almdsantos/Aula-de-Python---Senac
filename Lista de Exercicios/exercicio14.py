@@ -16,3 +16,4 @@ distancia = int(input("Informe a distancia dos semaforos"))
 velocidade = int(input("Informe a velocidade permitida na via"))
 aceleração = int(input("Informe a aceleração tipica do carro"))
 
+input("\n\nClique ENTER para finalizar.")
